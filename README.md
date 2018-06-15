@@ -1,6 +1,9 @@
 # XXamarin
 
-Este Repositório possui Exemplos e Implementações de Xamarin
+![](https://github.com/TBertuzzi/XXamarin/blob/master/Resources/logo.jpeg?raw=true)
+
+Repositório destinado a agregar diversos Exemplos e Implementações de Xamarin.
+Realizei todos os exemplos e implementações.
 
 **Xamarin.Forms**
 
