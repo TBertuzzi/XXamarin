@@ -35,6 +35,7 @@ Realizei todos os exemplos e implementações.
 |Bottom Tab page (Inclusive no Android)|[Medium](https://medium.com/@bertuzzi/finalizar-no-mac-o-x-do-xamarin-forms-bottom-tab-page-970f5ff45a46)|[Github](https://github.com/TBertuzzi/BottomTabPageExemplo)|
 |Floating Action Button|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-floating-action-button-o-bot%C3%A3o-flutuante-ee054b69424)|[Github](https://github.com/TBertuzzi/ExemploFAB)|
 |Floating Action Button Exemplo 2|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-floating-action-button-o-bot%C3%A3o-flutuante-parte-2-6908d9ebe0b)|[Github](https://github.com/TBertuzzi/XamarinFloatingActionButtonExemplo/)|
+|Exemplo de BadgeView e BadgeCount|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-badgeview-e-badgecount-c511846b4665)|[Github](https://github.com/TBertuzzi/BadgeViewExemplo/)|
 
 
 **Xamarin.Forms - UI**
