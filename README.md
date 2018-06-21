@@ -5,6 +5,17 @@
 Repositório destinado a agregar diversos Exemplos e Implementações de Xamarin.
 Realizei todos os exemplos e implementações.
 
+**Meus Controles/Plugins**
+
+|Pacote | Descrição| Repositório|
+| ------------------- | :------------------: |:------------------: |
+|Xamarin.Forms.MultiSelectListView|Adiciona Multi Select no ListView|[Nuget](https://www.nuget.org/packages/Xamarin.Forms.MultiSelectListView/)||
+|Xamarin.Forms.PageControl|Controle de paginação|[Nuget](https://www.nuget.org/packages/Xamarin.Forms.PageControl/)||
+|Xamarin.Forms.StepProgressBar|Controle de Barra de Progresso (ideal para cadastros)|[Nuget](https://www.nuget.org/packages/Xamarin.Forms.StepProgressBar/)||
+|Xamarin.Forms.BehaviorValidationPack|Pacote com diversas validações para controles de Xamarin.Forms|[Nuget](https://www.nuget.org/packages/Xamarin.Forms.BehaviorValidationPack/)||
+|Xamarin.Forms.MaskedEntry|Entry com Mascara para Xamarin.Forms|[Nuget](https://www.nuget.org/packages/Xamarin.Forms.MaskedEntry/)||
+
+
 **Xamarin.Forms**
 
 |Exemplo |Como Utilizar| Código Fonte|
