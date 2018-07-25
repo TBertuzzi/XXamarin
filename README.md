@@ -83,6 +83,8 @@ Realizei todos os exemplos e implementações.
 |Como verificar a versão do seu APP com a loja|[Medium](https://medium.com/@bertuzzi/meu-plugin-minha-vida-verificando-a-vers%C3%A3o-do-seu-app-9910a5004123)|[Github](https://github.com/TBertuzzi/LatestVersionPluginExemplo/)|
 |Xamarin Essentials|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-xamarin-essentials-26511f833ba)||
 |Reproduzindo Videos|[Medium](https://medium.com/@bertuzzi/meu-plugin-minha-vida-reproduzindo-video-166120c6bb18)|[Github](https://github.com/TBertuzzi/VideoExemplo/)|
+|Adicionando Mascaras e validações|[Medium](https://medium.com/@bertuzzi/meu-plugin-minha-vida-mascaras-e-valida%C3%A7%C3%B5es-b0544fece880)|[Github](https://github.com/TBertuzzi/Xamarin.Forms.BehaviorValidationPack/)|
+
 
 
 **Xamarin.Forms - Outros**
