@@ -33,6 +33,7 @@ Realizei todos os exemplos e implementações.
 |Utilizando Custom Renderer|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-t%C3%ADtulos-grandes-do-ios-11-custom-renderer-em-a%C3%A7%C3%A3o-7cbc6748390c)|[Github](https://github.com/TBertuzzi/IOSTituloGrandeExemplo)|
 |Utilizando Effects|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-effects-dc4f24fafb32)|[Github](https://github.com/TBertuzzi/EffectsExemplo)|
 |Utilizando Acessbilidade|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-acessibilidade-por-voz-27f7af023c9d)|[Github](https://github.com/TBertuzzi/AcessibilidadeExemplo)|
+|Utilizando Lottie|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-lottie-51433d80af12)|[Github](https://github.com/TBertuzzi/LottieExemplo)|
 
 
 **Xamarin.Forms - Controles**
