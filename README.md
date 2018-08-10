@@ -49,6 +49,7 @@ Realizei todos os exemplos e implementações.
 |Floating Action Button Exemplo 2|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-floating-action-button-o-bot%C3%A3o-flutuante-parte-2-6908d9ebe0b)|[Github](https://github.com/TBertuzzi/XamarinFloatingActionButtonExemplo/)|
 |Exemplo de BadgeView e BadgeCount|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-badgeview-e-badgecount-c511846b4665)|[Github](https://github.com/TBertuzzi/BadgeViewExemplo/)|
 |Exemplo de um Editor Html Com Xamarin.Forms|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-um-editor-html-fcb88c2ac022)|[Github](https://github.com/TBertuzzi/TEditorExemplo/)|
+|Mapas com GoogleMaps e Xamarin.Forms|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-mapas-mas-com-google-maps-d-e9b57071b4ec)|[Github](https://github.com/TBertuzzi/ExemploXamarinGoogleMapas/)|
 
 
 **Xamarin.Forms - UI**
