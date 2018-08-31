@@ -88,6 +88,8 @@ Realizei todos os exemplos e implementações.
 |Xamarin Essentials|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-xamarin-essentials-26511f833ba)||
 |Reproduzindo Videos|[Medium](https://medium.com/@bertuzzi/meu-plugin-minha-vida-reproduzindo-video-166120c6bb18)|[Github](https://github.com/TBertuzzi/VideoExemplo/)|
 |Adicionando Mascaras e validações|[Medium](https://medium.com/@bertuzzi/meu-plugin-minha-vida-mascaras-e-valida%C3%A7%C3%B5es-b0544fece880)|[Github](https://github.com/TBertuzzi/Xamarin.Forms.BehaviorValidationPack/)|
+|Permissoes dos Dispositivos|[Medium](https://medium.com/@bertuzzi/meu-plugin-minha-vida-eu-tenho-permiss%C3%A3o-749d79ffea03)|[Github](https://github.com/TBertuzzi/PermissionsExemplo/tree/master/)|
+
 
 
 
