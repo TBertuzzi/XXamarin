@@ -62,6 +62,8 @@ Realizei todos os exemplos e implementações.
 |Editor online de XAML|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-editor-online-de-xaml-o-poder-do-wasm-6a86f23e8fe4)||
 |Exemplos de implementações de Resources e Styles|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-resources-e-styles-1ff7961942f6)|[Github](https://github.com/TBertuzzi/ResourcesStylesExemplos/)|
 |Exemplos e dicas para XAML parte 2 |[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-mais-5-dicas-para-o-xaml-6dea813ff9fa)|[Github](https://github.com/TBertuzzi/XamlExemplos2)|
+|Exemplo de Pagina de Introdução |[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-pagina-de-introdu%C3%A7%C3%A3o-carousel-e-pagecontrol-em-a%C3%A7%C3%A3o-9f77a1afea8)|[Github](https://github.com/TBertuzzi/PaginaIIntroducaoExemplo/)|
+
 
 
 **Xamarin.Forms - Banco de Dados**
