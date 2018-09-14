@@ -95,11 +95,22 @@ Realizei todos os exemplos e implementações.
 |Permissoes dos Dispositivos|[Medium](https://medium.com/@bertuzzi/meu-plugin-minha-vida-eu-tenho-permiss%C3%A3o-749d79ffea03)|[Github](https://github.com/TBertuzzi/PermissionsExemplo/tree/master/)|
 
 
+**Xamarin.Forms - Xamarin iOS**
 
+|Exemplo |Como Utilizar| Código Fonte|
+| ------------------- | :------------------: |:------------------: |
+|Xamarin.IOS : Tamanhos de Tela,Icones e Botões|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-xamarin-ios-tamanhos-de-tela-icones-e-bot%C3%B5es-a1415e58eaad)||
+
+
+**Xamarin.Forms - Xamarin Android**
+
+|Exemplo |Como Utilizar| Código Fonte|
+| ------------------- | :------------------: |:------------------: |
+|Xamarin.Android : 5 Dicas para Xamarin.Android|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-5-dicas-para-xamarin-android-2e150598ba5b)|[Github](https://github.com/TBertuzzi/DIcasXamarinFormsAndroid/)|
+|Xamarin.Android : Criando Ícones arredondados|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-criando-%C3%ADcones-arredondados-para-o-xamarin-android-9ad76be877f)||
 
 **Xamarin.Forms - Outros**
 
 |Exemplo |Como Utilizar| Código Fonte|
 | ------------------- | :------------------: |:------------------: |
-|Xamarin.IOS : Tamanhos de Tela,Icones e Botões|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-xamarin-ios-tamanhos-de-tela-icones-e-bot%C3%B5es-a1415e58eaad)||
 |ASP.Net Core com Xamarin Forms|[Medium](https://medium.com/@bertuzzi/criando-um-site-asp-net-core-com-xamarin-forms-12dc28351ff4)|[Github](https://github.com/TBertuzzi/OouiAspCore/)|
