@@ -35,6 +35,7 @@ Realizei todos os exemplos e implementações.
 |Utilizando Effects|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-effects-dc4f24fafb32)|[Github](https://github.com/TBertuzzi/EffectsExemplo)|
 |Utilizando Acessbilidade|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-acessibilidade-por-voz-27f7af023c9d)|[Github](https://github.com/TBertuzzi/AcessibilidadeExemplo)|
 |Utilizando Lottie|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-lottie-51433d80af12)|[Github](https://github.com/TBertuzzi/LottieExemplo)|
+|Utilizando TitleView|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-a-nova-titleview-aed44be21930)|[Github](https://github.com/TBertuzzi/TitleViewExemplo)|
 
 
 **Xamarin.Forms - Controles**
@@ -52,6 +53,7 @@ Realizei todos os exemplos e implementações.
 |Exemplo de um Editor Html Com Xamarin.Forms|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-um-editor-html-fcb88c2ac022)|[Github](https://github.com/TBertuzzi/TEditorExemplo/)|
 |Mapas com GoogleMaps e Xamarin.Forms|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-mapas-mas-com-google-maps-d-e9b57071b4ec)|[Github](https://github.com/TBertuzzi/ExemploXamarinGoogleMapas/)|
 |FlowListView|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-flowlistview-a-listview-sem-limites-3f2a1cc08003)|[Github](https://github.com/TBertuzzi/FlowListViewExemplo/)|
+|StateButton|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-state-button-64662245d15e)|[Github](https://github.com/TBertuzzi/ExemploStateButton/)|
 
 
 **Xamarin.Forms - UI**
