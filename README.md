@@ -15,6 +15,7 @@ Realizei todos os exemplos e implementações.
 |Xamarin.Forms.BehaviorValidationPack|Pacote com diversas validações para controles de Xamarin.Forms|[Nuget](https://www.nuget.org/packages/Xamarin.Forms.BehaviorValidationPack/)||
 |Xamarin.Forms.MaskedEntry|Entry com Mascara para Xamarin.Forms|[Nuget](https://www.nuget.org/packages/Xamarin.Forms.MaskedEntry/)||
 |Xamarin.Helpers|Helpers e Extensões para Xamarin|[Nuget](https://www.nuget.org/packages/Xamarin.Helpers/)||
+|Xamarin.Forms.PinchZoomImage|Zoom "Pinça" nas suas imagens|[Nuget](https://www.nuget.org/packages/Xamarin.Helpers/)||
 
 
 **Xamarin.Forms**
@@ -36,6 +37,7 @@ Realizei todos os exemplos e implementações.
 |Utilizando Acessbilidade|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-acessibilidade-por-voz-27f7af023c9d)|[Github](https://github.com/TBertuzzi/AcessibilidadeExemplo)|
 |Utilizando Lottie|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-lottie-51433d80af12)|[Github](https://github.com/TBertuzzi/LottieExemplo)|
 |Utilizando TitleView|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-a-nova-titleview-aed44be21930)|[Github](https://github.com/TBertuzzi/TitleViewExemplo)|
+|Utilizando MVVM Helpers|[Medium](https://medium.com/p/o-x-do-xamarin-forms-mvvm-helpers-7b73b821fc34)|[Github](https://github.com/TBertuzzi/ExemploMvvmHelpers)|
 
 
 **Xamarin.Forms - Controles**
@@ -54,6 +56,8 @@ Realizei todos os exemplos e implementações.
 |Mapas com GoogleMaps e Xamarin.Forms|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-mapas-mas-com-google-maps-d-e9b57071b4ec)|[Github](https://github.com/TBertuzzi/ExemploXamarinGoogleMapas/)|
 |FlowListView|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-flowlistview-a-listview-sem-limites-3f2a1cc08003)|[Github](https://github.com/TBertuzzi/FlowListViewExemplo/)|
 |StateButton|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-state-button-64662245d15e)|[Github](https://github.com/TBertuzzi/ExemploStateButton/)|
+|Popups|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-pop-ups-5cffa68ee3e)|[Github](https://github.com/TBertuzzi/ExemploPopUp/)|
+
 
 
 **Xamarin.Forms - UI**
@@ -95,6 +99,7 @@ Realizei todos os exemplos e implementações.
 |Reproduzindo Videos|[Medium](https://medium.com/@bertuzzi/meu-plugin-minha-vida-reproduzindo-video-166120c6bb18)|[Github](https://github.com/TBertuzzi/VideoExemplo/)|
 |Adicionando Mascaras e validações|[Medium](https://medium.com/@bertuzzi/meu-plugin-minha-vida-mascaras-e-valida%C3%A7%C3%B5es-b0544fece880)|[Github](https://github.com/TBertuzzi/Xamarin.Forms.BehaviorValidationPack/)|
 |Permissoes dos Dispositivos|[Medium](https://medium.com/@bertuzzi/meu-plugin-minha-vida-eu-tenho-permiss%C3%A3o-749d79ffea03)|[Github](https://github.com/TBertuzzi/PermissionsExemplo/tree/master/)|
+|Geolocalização|[Medium](https://medium.com/@bertuzzi/meu-plugin-minha-vida-geolocaliza%C3%A7%C3%A3o-4bcac35bbb42)|[Github](https://github.com/TBertuzzi/ExemploGeolocation/)|
 
 
 **Xamarin.Forms - Xamarin iOS**
