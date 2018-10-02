@@ -100,6 +100,7 @@ Realizei todos os exemplos e implementações.
 |Adicionando Mascaras e validações|[Medium](https://medium.com/@bertuzzi/meu-plugin-minha-vida-mascaras-e-valida%C3%A7%C3%B5es-b0544fece880)|[Github](https://github.com/TBertuzzi/Xamarin.Forms.BehaviorValidationPack/)|
 |Permissoes dos Dispositivos|[Medium](https://medium.com/@bertuzzi/meu-plugin-minha-vida-eu-tenho-permiss%C3%A3o-749d79ffea03)|[Github](https://github.com/TBertuzzi/PermissionsExemplo/tree/master/)|
 |Geolocalização|[Medium](https://medium.com/@bertuzzi/meu-plugin-minha-vida-geolocaliza%C3%A7%C3%A3o-4bcac35bbb42)|[Github](https://github.com/TBertuzzi/ExemploGeolocation/)|
+|Sensores|[Medium](https://medium.com/@bertuzzi/meu-plugin-minha-vida-acessando-sensores-790b9a5e486)|[Github](https://github.com/TBertuzzi/SensoresExemplo//)|
 
 
 **Xamarin.Forms - Xamarin iOS**
