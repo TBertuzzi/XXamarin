@@ -38,6 +38,7 @@ Realizei todos os exemplos e implementações.
 |Utilizando Lottie|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-lottie-51433d80af12)|[Github](https://github.com/TBertuzzi/LottieExemplo)|
 |Utilizando TitleView|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-a-nova-titleview-aed44be21930)|[Github](https://github.com/TBertuzzi/TitleViewExemplo)|
 |Utilizando MVVM Helpers|[Medium](https://medium.com/p/o-x-do-xamarin-forms-mvvm-helpers-7b73b821fc34)|[Github](https://github.com/TBertuzzi/ExemploMvvmHelpers)|
+|Utilizando Bindable Effects|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-personalizando-a-status-bar-bindable-effects-3b9b7f911fd1)|[Github](https://github.com/TBertuzzi/StatusBarEffectExemplo)|
 
 
 **Xamarin.Forms - Controles**
