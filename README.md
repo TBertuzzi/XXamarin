@@ -16,6 +16,7 @@ Realizei todos os exemplos e implementações.
 |Xamarin.Forms.MaskedEntry|Entry com Mascara para Xamarin.Forms|[Nuget](https://www.nuget.org/packages/Xamarin.Forms.MaskedEntry/)||
 |Xamarin.Helpers|Helpers e Extensões para Xamarin|[Nuget](https://www.nuget.org/packages/Xamarin.Helpers/)||
 |Xamarin.Forms.PinchZoomImage|Zoom "Pinça" nas suas imagens|[Nuget](https://www.nuget.org/packages/Xamarin.Helpers/)||
+|Xamarin.Forms.ConvertersPack|Pacote com diversos converters para Xamarin.Forms|[Nuget](https://www.nuget.org/packages/Xamarin.Forms.ConvertersPack/)||
 
 
 **Xamarin.Forms**
