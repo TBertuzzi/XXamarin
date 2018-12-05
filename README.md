@@ -17,6 +17,7 @@ Realizei todos os exemplos e implementações.
 |Xamarin.Helpers|Helpers e Extensões para Xamarin|[Nuget](https://www.nuget.org/packages/Xamarin.Helpers/)||
 |Xamarin.Forms.PinchZoomImage|Zoom "Pinça" nas suas imagens|[Nuget](https://www.nuget.org/packages/Xamarin.Helpers/)||
 |Xamarin.Forms.ConvertersPack|Pacote com diversos converters para Xamarin.Forms|[Nuget](https://www.nuget.org/packages/Xamarin.Forms.ConvertersPack/)||
+|Xamarin.Forms.MVVMBase|Estrutura MVVM Simples para Projetos Xamarin.Forms|[Nuget](https://www.nuget.org/packages/Xamarin.Forms.MVVMBase/)||
 
 
 **Xamarin.Forms**
@@ -40,6 +41,9 @@ Realizei todos os exemplos e implementações.
 |Utilizando TitleView|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-a-nova-titleview-aed44be21930)|[Github](https://github.com/TBertuzzi/TitleViewExemplo)|
 |Utilizando MVVM Helpers|[Medium](https://medium.com/p/o-x-do-xamarin-forms-mvvm-helpers-7b73b821fc34)|[Github](https://github.com/TBertuzzi/ExemploMvvmHelpers)|
 |Utilizando Bindable Effects|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-personalizando-a-status-bar-bindable-effects-3b9b7f911fd1)|[Github](https://github.com/TBertuzzi/StatusBarEffectExemplo)|
+|Alterando a interface por plataforma|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-alterando-a-interface-por-plataforma-e528ec39a8be)|[Github](https://github.com/TBertuzzi/onPlatformExemplo)|
+|Lendo RSS|[Medium](https://medium.com/@bertuzzi/meu-plugin-minha-vida-lendo-rss-com-xamarin-forms-8de248955062)|[Github](https://github.com/TBertuzzi/RSSExemplo)|
+|Triggers|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-triggers-68c7bee4606e)|[Github](https://github.com/TBertuzzi/ExemploTrigger)|
 
 
 **Xamarin.Forms - Controles**
@@ -59,6 +63,9 @@ Realizei todos os exemplos e implementações.
 |FlowListView|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-flowlistview-a-listview-sem-limites-3f2a1cc08003)|[Github](https://github.com/TBertuzzi/FlowListViewExemplo/)|
 |StateButton|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-state-button-64662245d15e)|[Github](https://github.com/TBertuzzi/ExemploStateButton/)|
 |Popups|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-pop-ups-5cffa68ee3e)|[Github](https://github.com/TBertuzzi/ExemploPopUp/)|
+|Menu Slide|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-menu-slide-ec07a71f7fbd)|[Github](https://github.com/TBertuzzi/SlideMenuExemplo/)|
+|Mascara de Moeda (Currency)|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-mascara-de-moeda-currency-converters-em-a%C3%A7%C3%A3o-769d9f0dc208)|[Github](https://github.com/TBertuzzi/Xamarin.Forms.ConvertersPack/)|
+|Carousel View|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-uma-op%C3%A7%C3%A3o-ao-carousel-view-1be0e21d461e)|[Github](https://github.com/TBertuzzi/ExemploControleCarouselView/)|
 
 
 
@@ -82,6 +89,7 @@ Realizei todos os exemplos e implementações.
 |Implementando LiteDB|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-litedb-c70d2b2e3125)|[Github](https://github.com/TBertuzzi/LiteDBXamarinExemplo/)|
 |Armazenando Imagens no LiteDB|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-litedb-armazenando-imagens-fb06f14d114)|[Github](https://github.com/TBertuzzi/LiteDBImagensExemplo/)|
 |Diversas dicas e Implementações sobre persistencia de dados|[Medium](https://medium.com/@bertuzzi/resumo-da-palestra-sobre-persist%C3%AAncia-de-dados-69692d11ac2d)|[Github](https://github.com/TBertuzzi/PalestraPersistenciadeDados/)|
+|Monkey Cache|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-armazenando-cache-com-monkey-cache-p-b881deeba8cd)|[Github](https://github.com/TBertuzzi/ExemploMonkeyCache/)|
 
 **Xamarin.Forms - Plugins**
 
@@ -103,6 +111,8 @@ Realizei todos os exemplos e implementações.
 |Permissoes dos Dispositivos|[Medium](https://medium.com/@bertuzzi/meu-plugin-minha-vida-eu-tenho-permiss%C3%A3o-749d79ffea03)|[Github](https://github.com/TBertuzzi/PermissionsExemplo/tree/master/)|
 |Geolocalização|[Medium](https://medium.com/@bertuzzi/meu-plugin-minha-vida-geolocaliza%C3%A7%C3%A3o-4bcac35bbb42)|[Github](https://github.com/TBertuzzi/ExemploGeolocation/)|
 |Sensores|[Medium](https://medium.com/@bertuzzi/meu-plugin-minha-vida-acessando-sensores-790b9a5e486)|[Github](https://github.com/TBertuzzi/SensoresExemplo//)|
+|Zoom em imagens|[Medium](https://medium.com/@bertuzzi/meu-plugin-minha-vida-zoom-em-imagens-b39b8d0d62d2)|[Github](https://github.com/TBertuzzi/Xamarin.Forms.PinchZoomImage/)|
+|BackGround Services|[Medium](https://medium.com/@bertuzzi/meu-plugin-minha-vida-background-services-16493f32f83e)|[Github](https://github.com/TBertuzzi/ExemploBackGroundService/)|
 
 
 **Xamarin.Forms - Xamarin iOS**
