@@ -19,6 +19,7 @@ Realizei todos os exemplos e implementações.
 |Xamarin.Forms.ConvertersPack|Pacote com diversos converters para Xamarin.Forms|[Nuget](https://www.nuget.org/packages/Xamarin.Forms.ConvertersPack/)||
 |Xamarin.Forms.MVVMBase|Estrutura MVVM Simples para Projetos Xamarin.Forms|[Nuget](https://www.nuget.org/packages/Xamarin.Forms.MVVMBase/)||
 |Xamarin.Forms.DynamicLayout|Layouts dinamicos para Xamarin.Forms|[Nuget](https://www.nuget.org/packages/Xamarin.Forms.DynamicLayout/)||
+|Xamarin.Forms.SegmentedButton|iOS SegmentedButton para Xamarin.Forms|[Nuget](https://www.nuget.org/packages/Xamarin.Forms.DynamicLayout/)||
 
 
 **Xamarin.Forms**
@@ -45,6 +46,7 @@ Realizei todos os exemplos e implementações.
 |Alterando a interface por plataforma|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-alterando-a-interface-por-plataforma-e528ec39a8be)|[Github](https://github.com/TBertuzzi/onPlatformExemplo)|
 |Lendo RSS|[Medium](https://medium.com/@bertuzzi/meu-plugin-minha-vida-lendo-rss-com-xamarin-forms-8de248955062)|[Github](https://github.com/TBertuzzi/RSSExemplo)|
 |Triggers|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-triggers-68c7bee4606e)|[Github](https://github.com/TBertuzzi/ExemploTrigger)|
+|Image Button|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-diga-oi-ao-image-button-25964e017f06)|[Github](https://github.com/TBertuzzi/ExemploImageButton)|
 
 
 **Xamarin.Forms - Controles**
@@ -67,6 +69,7 @@ Realizei todos os exemplos e implementações.
 |Menu Slide|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-menu-slide-ec07a71f7fbd)|[Github](https://github.com/TBertuzzi/SlideMenuExemplo/)|
 |Mascara de Moeda (Currency)|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-mascara-de-moeda-currency-converters-em-a%C3%A7%C3%A3o-769d9f0dc208)|[Github](https://github.com/TBertuzzi/Xamarin.Forms.ConvertersPack/)|
 |Carousel View|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-uma-op%C3%A7%C3%A3o-ao-carousel-view-1be0e21d461e)|[Github](https://github.com/TBertuzzi/ExemploControleCarouselView/)|
+|Segmented Control|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-segmented-control-be3d973dc11a)|[Github](https://github.com/TBertuzzi/Xamarin.Forms.SegmentedButton/)|
 
 
 
