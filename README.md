@@ -70,6 +70,7 @@ Realizei todos os exemplos e implementações.
 |Mascara de Moeda (Currency)|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-mascara-de-moeda-currency-converters-em-a%C3%A7%C3%A3o-769d9f0dc208)|[Github](https://github.com/TBertuzzi/Xamarin.Forms.ConvertersPack/)|
 |Carousel View|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-uma-op%C3%A7%C3%A3o-ao-carousel-view-1be0e21d461e)|[Github](https://github.com/TBertuzzi/ExemploControleCarouselView/)|
 |Segmented Control|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-segmented-control-be3d973dc11a)|[Github](https://github.com/TBertuzzi/Xamarin.Forms.SegmentedButton/)|
+|Xamarin Forms Extended Controls|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-xamarin-forms-extended-controls-eb5753850843)|[Github](https://github.com/TBertuzzi/XfxControlsExemplo/)|
 
 
 
