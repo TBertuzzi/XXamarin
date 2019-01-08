@@ -20,6 +20,7 @@ Realizei todos os exemplos e implementações.
 |Xamarin.Forms.MVVMBase|Estrutura MVVM Simples para Projetos Xamarin.Forms|[Nuget](https://www.nuget.org/packages/Xamarin.Forms.MVVMBase/)||
 |Xamarin.Forms.DynamicLayout|Layouts dinamicos para Xamarin.Forms|[Nuget](https://www.nuget.org/packages/Xamarin.Forms.DynamicLayout/)||
 |Xamarin.Forms.SegmentedButton|iOS SegmentedButton para Xamarin.Forms|[Nuget](https://www.nuget.org/packages/Xamarin.Forms.DynamicLayout/)||
+|Xamarin.Forms.ImageEntry|Coloque imagens em seus Entrys|[Nuget](https://www.nuget.org/packages/Xamarin.Forms.ImageEntry/)||
 
 
 **Xamarin.Forms**
