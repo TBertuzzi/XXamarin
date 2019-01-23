@@ -72,6 +72,7 @@ Realizei todos os exemplos e implementações.
 |Carousel View|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-uma-op%C3%A7%C3%A3o-ao-carousel-view-1be0e21d461e)|[Github](https://github.com/TBertuzzi/ExemploControleCarouselView/)|
 |Segmented Control|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-segmented-control-be3d973dc11a)|[Github](https://github.com/TBertuzzi/Xamarin.Forms.SegmentedButton/)|
 |Xamarin Forms Extended Controls|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-xamarin-forms-extended-controls-eb5753850843)|[Github](https://github.com/TBertuzzi/XfxControlsExemplo/)|
+|Rating Bar|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-ratingbar-719d35d3f9dd)|[Github](https://github.com/TBertuzzi/RatingBarExemplo/)|
 
 
 
@@ -141,3 +142,10 @@ Realizei todos os exemplos e implementações.
 | ------------------- | :------------------: |:------------------: |
 |ASP.Net Core com Xamarin Forms|[Medium](https://medium.com/@bertuzzi/criando-um-site-asp-net-core-com-xamarin-forms-12dc28351ff4)|[Github](https://github.com/TBertuzzi/OouiAspCore/)|
 |Refit|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-refit-f42bc3707281)|[Github](https://github.com/TBertuzzi/RefitExemplo/)|
+
+**Xamarin.Forms - MVVM - Frameworks**
+
+|Exemplo |Como Utilizar| Código Fonte|
+| ------------------- | :------------------: |:------------------: |
+|Configurando o Prism|[Medium](https://medium.com/@bertuzzi/mvvm-em-a%C3%A7%C3%A3o-prism-library-configurando-o-prism-eb7c9b539a88)|[Github](https://github.com/TBertuzzi/PrismHeroes/)|
+
