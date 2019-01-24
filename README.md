@@ -142,6 +142,9 @@ Realizei todos os exemplos e implementações.
 | ------------------- | :------------------: |:------------------: |
 |ASP.Net Core com Xamarin Forms|[Medium](https://medium.com/@bertuzzi/criando-um-site-asp-net-core-com-xamarin-forms-12dc28351ff4)|[Github](https://github.com/TBertuzzi/OouiAspCore/)|
 |Refit|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-refit-f42bc3707281)|[Github](https://github.com/TBertuzzi/RefitExemplo/)|
+|Xamarin Essentials|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-xamarin-essentials-26511f833ba)||
+
+
 
 **Xamarin.Forms - MVVM - Frameworks**
 
