@@ -48,6 +48,8 @@ Realizei todos os exemplos e implementações.
 |Lendo RSS|[Medium](https://medium.com/@bertuzzi/meu-plugin-minha-vida-lendo-rss-com-xamarin-forms-8de248955062)|[Github](https://github.com/TBertuzzi/RSSExemplo)|
 |Triggers|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-triggers-68c7bee4606e)|[Github](https://github.com/TBertuzzi/ExemploTrigger)|
 |Image Button|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-diga-oi-ao-image-button-25964e017f06)|[Github](https://github.com/TBertuzzi/ExemploImageButton)|
+|Abrindo aplicativos externos|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-abrindo-um-aplicativo-externo-b7e9a78936dc)|[Github](https://github.com/TBertuzzi/ExemploAbrindoApp)|
+
 
 
 **Xamarin.Forms - Controles**
@@ -143,7 +145,7 @@ Realizei todos os exemplos e implementações.
 |ASP.Net Core com Xamarin Forms|[Medium](https://medium.com/@bertuzzi/criando-um-site-asp-net-core-com-xamarin-forms-12dc28351ff4)|[Github](https://github.com/TBertuzzi/OouiAspCore/)|
 |Refit|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-refit-f42bc3707281)|[Github](https://github.com/TBertuzzi/RefitExemplo/)|
 |Xamarin Essentials|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-xamarin-essentials-26511f833ba)||
-
+|CollectionView e CarouselView|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-4-0-collectionview-e-carouselview-2c277f61d063)|[Github](https://github.com/TBertuzzi/CollectionViewExemplo/)|
 
 
 **Xamarin.Forms - MVVM - Frameworks**
