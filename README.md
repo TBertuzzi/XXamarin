@@ -129,6 +129,8 @@ Realizei todos os exemplos e implementações.
 |Exemplo |Como Utilizar| Código Fonte|
 | ------------------- | :------------------: |:------------------: |
 |Xamarin.IOS : Tamanhos de Tela,Icones e Botões|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-xamarin-ios-tamanhos-de-tela-icones-e-bot%C3%B5es-a1415e58eaad)||
+|Xamarin.IOS : 5 Dicas para Xamarin.iOS|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-5-dicas-para-xamarin-ios-48e209792104)|[Github](https://github.com/TBertuzzi/DicasXamariniOS/)|
+
 
 
 **Xamarin.Forms - Xamarin Android**
