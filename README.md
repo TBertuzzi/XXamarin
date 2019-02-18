@@ -15,11 +15,11 @@ Realizei todos os exemplos e implementações.
 |Xamarin.Forms.BehaviorValidationPack|Pacote com diversas validações para controles de Xamarin.Forms|[Nuget](https://www.nuget.org/packages/Xamarin.Forms.BehaviorValidationPack/)||
 |Xamarin.Forms.MaskedEntry|Entry com Mascara para Xamarin.Forms|[Nuget](https://www.nuget.org/packages/Xamarin.Forms.MaskedEntry/)||
 |Xamarin.Helpers|Helpers e Extensões para Xamarin|[Nuget](https://www.nuget.org/packages/Xamarin.Helpers/)||
-|Xamarin.Forms.PinchZoomImage|Zoom "Pinça" nas suas imagens|[Nuget](https://www.nuget.org/packages/Xamarin.Helpers/)||
+|Xamarin.Forms.PinchZoomImage|Zoom "Pinça" nas suas imagens|[Nuget](https://www.nuget.org/packages/Xamarin.Forms.PinchZoomImage/)||
 |Xamarin.Forms.ConvertersPack|Pacote com diversos converters para Xamarin.Forms|[Nuget](https://www.nuget.org/packages/Xamarin.Forms.ConvertersPack/)||
 |Xamarin.Forms.MVVMBase|Estrutura MVVM Simples para Projetos Xamarin.Forms|[Nuget](https://www.nuget.org/packages/Xamarin.Forms.MVVMBase/)||
 |Xamarin.Forms.DynamicLayout|Layouts dinamicos para Xamarin.Forms|[Nuget](https://www.nuget.org/packages/Xamarin.Forms.DynamicLayout/)||
-|Xamarin.Forms.SegmentedButton|iOS SegmentedButton para Xamarin.Forms|[Nuget](https://www.nuget.org/packages/Xamarin.Forms.DynamicLayout/)||
+|Xamarin.Forms.SegmentedButton|iOS SegmentedButton para Xamarin.Forms|[Nuget](https://www.nuget.org/packages/Xamarin.Forms.SegmentedButton/)||
 |Xamarin.Forms.ImageEntry|Coloque imagens em seus Entrys|[Nuget](https://www.nuget.org/packages/Xamarin.Forms.ImageEntry/)||
 
 
