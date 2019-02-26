@@ -122,6 +122,8 @@ Realizei todos os exemplos e implementações.
 |Sensores|[Medium](https://medium.com/@bertuzzi/meu-plugin-minha-vida-acessando-sensores-790b9a5e486)|[Github](https://github.com/TBertuzzi/SensoresExemplo//)|
 |Zoom em imagens|[Medium](https://medium.com/@bertuzzi/meu-plugin-minha-vida-zoom-em-imagens-b39b8d0d62d2)|[Github](https://github.com/TBertuzzi/Xamarin.Forms.PinchZoomImage/)|
 |BackGround Services|[Medium](https://medium.com/@bertuzzi/meu-plugin-minha-vida-background-services-16493f32f83e)|[Github](https://github.com/TBertuzzi/ExemploBackGroundService/)|
+|Mapas Externos|[Medium](https://medium.com/@bertuzzi/meu-plugin-minha-vida-abrindo-um-mapa-externo-1686347c626b)|[Github](https://github.com/TBertuzzi/MapaExternoExemplo/)|
+
 
 
 **Xamarin.Forms - Xamarin iOS**
