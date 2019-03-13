@@ -75,6 +75,7 @@ Realizei todos os exemplos e implementações.
 |Segmented Control|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-segmented-control-be3d973dc11a)|[Github](https://github.com/TBertuzzi/Xamarin.Forms.SegmentedButton/)|
 |Xamarin Forms Extended Controls|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-xamarin-forms-extended-controls-eb5753850843)|[Github](https://github.com/TBertuzzi/XfxControlsExemplo/)|
 |Rating Bar|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-ratingbar-719d35d3f9dd)|[Github](https://github.com/TBertuzzi/RatingBarExemplo/)|
+|PullToRefreshLayout (Atualizar Tela)|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-puxe-para-atualizar-a-tela-pulltorefreshlayout-b34fb5812aa3)|[Github](https://github.com/TBertuzzi/RefreshLayoutSample/)|
 
 
 
