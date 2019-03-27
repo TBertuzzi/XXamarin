@@ -49,7 +49,7 @@ Realizei todos os exemplos e implementações.
 |Triggers|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-triggers-68c7bee4606e)|[Github](https://github.com/TBertuzzi/ExemploTrigger)|
 |Image Button|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-diga-oi-ao-image-button-25964e017f06)|[Github](https://github.com/TBertuzzi/ExemploImageButton)|
 |Abrindo aplicativos externos|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-abrindo-um-aplicativo-externo-b7e9a78936dc)|[Github](https://github.com/TBertuzzi/ExemploAbrindoApp)|
-
+|O Guia das Funcionalidades Nativas - iOS|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-o-guia-das-funcionalidades-nativas-parte-1-ios-77057d65ae4)|[Github](https://github.com/TBertuzzi/NativePlayGround/)|
 
 
 **Xamarin.Forms - Controles**
