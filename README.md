@@ -91,6 +91,7 @@ Realizei todos os exemplos e implementações.
 |Exemplo de Pagina de Introdução |[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-pagina-de-introdu%C3%A7%C3%A3o-carousel-e-pagecontrol-em-a%C3%A7%C3%A3o-9f77a1afea8)|[Github](https://github.com/TBertuzzi/PaginaIIntroducaoExemplo/)|
 |Material Design com Xamarin.Forms |[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-3-6-bemvindo-material-design-7ce38f1453b)||
 |LineBreakMode com Xamarin.Forms |[Medium](https://medium.com/@bertuzzi/xamarin-rocket-1-linebreakmode-60857312a4bb)|[Github](https://github.com/TBertuzzi/XamarinRocket/)|
+|Alterando Espaços do Grid |[Medium](https://medium.com/@bertuzzi/xamarin-rocket-2-alte-o-espa%C3%A7o-das-linhas-e-colunas-do-grid-f0fdc6ceaa8d)|[Github](https://github.com/TBertuzzi/XamarinRocket/)|
 
 
 **Xamarin.Forms - Banco de Dados**
