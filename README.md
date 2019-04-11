@@ -93,6 +93,7 @@ Realizei todos os exemplos e implementações.
 |LineBreakMode com Xamarin.Forms |[Medium](https://medium.com/@bertuzzi/xamarin-rocket-1-linebreakmode-60857312a4bb)|[Github](https://github.com/TBertuzzi/XamarinRocket/)|
 |Alterando Espaços do Grid |[Medium](https://medium.com/@bertuzzi/xamarin-rocket-2-alte-o-espa%C3%A7o-das-linhas-e-colunas-do-grid-f0fdc6ceaa8d)|[Github](https://github.com/TBertuzzi/XamarinRocket/)|
 |Tela Cheia: Ocultando a barra de status|[Medium](https://medium.com/@bertuzzi/xamarin-rocket-3-tela-cheia-ocultando-a-barra-de-status-8df9f31534d4)|[Github](https://github.com/TBertuzzi/XamarinRocket/)|
+|Colocando imagens em seus botões|[Medium](https://medium.com/@bertuzzi/xamarin-rocket-4-imagens-em-bot%C3%B5es-1a5faa581a42)|[Github](https://github.com/TBertuzzi/XamarinRocket/)|
 
 
 **Xamarin.Forms - Banco de Dados**
