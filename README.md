@@ -21,6 +21,7 @@ Realizei todos os exemplos e implementações.
 |Xamarin.Forms.DynamicLayout|Layouts dinamicos para Xamarin.Forms|[Nuget](https://www.nuget.org/packages/Xamarin.Forms.DynamicLayout/)||
 |Xamarin.Forms.SegmentedButton|iOS SegmentedButton para Xamarin.Forms|[Nuget](https://www.nuget.org/packages/Xamarin.Forms.SegmentedButton/)||
 |Xamarin.Forms.ImageEntry|Coloque imagens em seus Entrys|[Nuget](https://www.nuget.org/packages/Xamarin.Forms.ImageEntry/)||
+|AppCenter.Helpers (BETA)|Envie Push Notifications,obtenha estatisticas e erros do AppCenter de uma forma simples|[Nuget](https://www.nuget.org/packages/AppCenter.Helpers/0.1.0/)||
 
 
 **Xamarin.Forms**
