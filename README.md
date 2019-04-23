@@ -52,6 +52,7 @@ Realizei todos os exemplos e implementações.
 |Abrindo aplicativos externos|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-abrindo-um-aplicativo-externo-b7e9a78936dc)|[Github](https://github.com/TBertuzzi/ExemploAbrindoApp)|
 |O Guia das Funcionalidades Nativas - iOS|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-o-guia-das-funcionalidades-nativas-parte-1-ios-77057d65ae4)|[Github](https://github.com/TBertuzzi/NativePlayGround/)|
 |O Guia das Funcionalidades Nativas - Android|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-o-guia-das-funcionalidades-nativas-parte-2-android-f8c3f0a7b765)|[Github](https://github.com/TBertuzzi/NativePlayGround/)|
+|Notificação ao alterar a Conexão|[Medium](https://medium.com/@bertuzzi/xamarin-rocket-5-notifica%C3%A7%C3%A3o-ao-alterar-a-conex%C3%A3o-5495c5f57a4d)|[Github](https://github.com/TBertuzzi/XamarinRocket/)|
 
 
 **Xamarin.Forms - Controles**
@@ -96,6 +97,8 @@ Realizei todos os exemplos e implementações.
 |Alterando Espaços do Grid |[Medium](https://medium.com/@bertuzzi/xamarin-rocket-2-alte-o-espa%C3%A7o-das-linhas-e-colunas-do-grid-f0fdc6ceaa8d)|[Github](https://github.com/TBertuzzi/XamarinRocket/)|
 |Tela Cheia: Ocultando a barra de status|[Medium](https://medium.com/@bertuzzi/xamarin-rocket-3-tela-cheia-ocultando-a-barra-de-status-8df9f31534d4)|[Github](https://github.com/TBertuzzi/XamarinRocket/)|
 |Colocando imagens em seus botões|[Medium](https://medium.com/@bertuzzi/xamarin-rocket-4-imagens-em-bot%C3%B5es-1a5faa581a42)|[Github](https://github.com/TBertuzzi/XamarinRocket/)|
+|Barra de navegação Transparente|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-alterando-customizando-a-navigationpage-189df5abfc52)|[Github](https://github.com/TBertuzzi/NavegacaoTransparenteExemplo/)|
+|Alterando as cores da barra de navegação|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-alterando-customizando-a-navigationpage-189df5abfc52)|[Github](https://github.com/TBertuzzi/NavigationBarCoresExemplo/)|
 
 
 **Xamarin.Forms - Banco de Dados**
