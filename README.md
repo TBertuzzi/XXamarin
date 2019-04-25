@@ -99,6 +99,7 @@ Realizei todos os exemplos e implementações.
 |Colocando imagens em seus botões|[Medium](https://medium.com/@bertuzzi/xamarin-rocket-4-imagens-em-bot%C3%B5es-1a5faa581a42)|[Github](https://github.com/TBertuzzi/XamarinRocket/)|
 |Barra de navegação Transparente|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-alterando-customizando-a-navigationpage-189df5abfc52)|[Github](https://github.com/TBertuzzi/NavegacaoTransparenteExemplo/)|
 |Alterando as cores da barra de navegação|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-alterando-customizando-a-navigationpage-189df5abfc52)|[Github](https://github.com/TBertuzzi/NavigationBarCoresExemplo/)|
+|Utilizando GridLayout|[Medium](https://medium.com/@bertuzzi/xamarin-rocket-6-como-utilizar-o-gridlayout-45e0ab4b525b)|[Github](https://github.com/TBertuzzi/XamarinRocket/)|
 
 
 **Xamarin.Forms - Banco de Dados**
