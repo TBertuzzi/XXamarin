@@ -53,6 +53,7 @@ Realizei todos os exemplos e implementações.
 |O Guia das Funcionalidades Nativas - iOS|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-o-guia-das-funcionalidades-nativas-parte-1-ios-77057d65ae4)|[Github](https://github.com/TBertuzzi/NativePlayGround/)|
 |O Guia das Funcionalidades Nativas - Android|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-o-guia-das-funcionalidades-nativas-parte-2-android-f8c3f0a7b765)|[Github](https://github.com/TBertuzzi/NativePlayGround/)|
 |Notificação ao alterar a Conexão|[Medium](https://medium.com/@bertuzzi/xamarin-rocket-5-notifica%C3%A7%C3%A3o-ao-alterar-a-conex%C3%A3o-5495c5f57a4d)|[Github](https://github.com/TBertuzzi/XamarinRocket/)|
+|Exibindo arquivos PDF|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-exibindo-arquivos-pdf-460dcf9b66d9)|[Github](https://github.com/TBertuzzi/LeitorPdfExemplo/)|
 
 
 **Xamarin.Forms - Controles**
