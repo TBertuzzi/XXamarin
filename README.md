@@ -82,6 +82,7 @@ Realizei todos os exemplos e implementações.
 |Rating Bar|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-ratingbar-719d35d3f9dd)|[Github](https://github.com/TBertuzzi/RatingBarExemplo/)|
 |PullToRefreshLayout (Atualizar Tela)|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-puxe-para-atualizar-a-tela-pulltorefreshlayout-b34fb5812aa3)|[Github](https://github.com/TBertuzzi/RefreshLayoutSample/)|
 |AutoComplete com Entry|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-entry-com-preenchimento-autom%C3%A1tico-77fcbd3727c4)|[Github](https://github.com/TBertuzzi/AutoCompleteExemplo/)|
+|Graficos com Xamarin.Forms|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-gr%C3%A1ficos-6b0f384de5c6)|[Github](https://github.com/TBertuzzi/GraficosExemplo/)|
 
 
 
@@ -102,6 +103,7 @@ Realizei todos os exemplos e implementações.
 |Barra de navegação Transparente|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-alterando-customizando-a-navigationpage-189df5abfc52)|[Github](https://github.com/TBertuzzi/NavegacaoTransparenteExemplo/)|
 |Alterando as cores da barra de navegação|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-alterando-customizando-a-navigationpage-189df5abfc52)|[Github](https://github.com/TBertuzzi/NavigationBarCoresExemplo/)|
 |Utilizando GridLayout|[Medium](https://medium.com/@bertuzzi/xamarin-rocket-6-como-utilizar-o-gridlayout-45e0ab4b525b)|[Github](https://github.com/TBertuzzi/XamarinRocket/)|
+
 
 
 **Xamarin.Forms - Banco de Dados**
