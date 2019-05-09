@@ -103,6 +103,7 @@ Realizei todos os exemplos e implementações.
 |Barra de navegação Transparente|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-alterando-customizando-a-navigationpage-189df5abfc52)|[Github](https://github.com/TBertuzzi/NavegacaoTransparenteExemplo/)|
 |Alterando as cores da barra de navegação|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-alterando-customizando-a-navigationpage-189df5abfc52)|[Github](https://github.com/TBertuzzi/NavigationBarCoresExemplo/)|
 |Utilizando GridLayout|[Medium](https://medium.com/@bertuzzi/xamarin-rocket-6-como-utilizar-o-gridlayout-45e0ab4b525b)|[Github](https://github.com/TBertuzzi/XamarinRocket/)|
+|Indicador de Progresso|[Medium](https://medium.com/@bertuzzi/xamarin-rocket-8-indicador-de-progresso-fe512e8812da)|[Github](https://github.com/TBertuzzi/XamarinRocket/)|
 
 
 
