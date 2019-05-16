@@ -55,6 +55,7 @@ Realizei todos os exemplos e implementações.
 |Notificação ao alterar a Conexão|[Medium](https://medium.com/@bertuzzi/xamarin-rocket-5-notifica%C3%A7%C3%A3o-ao-alterar-a-conex%C3%A3o-5495c5f57a4d)|[Github](https://github.com/TBertuzzi/XamarinRocket/)|
 |Exibindo arquivos PDF|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-exibindo-arquivos-pdf-460dcf9b66d9)|[Github](https://github.com/TBertuzzi/LeitorPdfExemplo/)|
 |Gestos na tela|[Medium](https://medium.com/@bertuzzi/xamarin-rocket-7-gestos-e650bbad6b60)|[Github](https://github.com/TBertuzzi/XamarinRocket/)|
+|Splash Screen|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-splash-screen-b4bf27aca0b)|[Github](https://github.com/TBertuzzi/SplashScreenExemplo/)|
 
 
 **Xamarin.Forms - Controles**
@@ -104,6 +105,7 @@ Realizei todos os exemplos e implementações.
 |Alterando as cores da barra de navegação|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-alterando-customizando-a-navigationpage-189df5abfc52)|[Github](https://github.com/TBertuzzi/NavigationBarCoresExemplo/)|
 |Utilizando GridLayout|[Medium](https://medium.com/@bertuzzi/xamarin-rocket-6-como-utilizar-o-gridlayout-45e0ab4b525b)|[Github](https://github.com/TBertuzzi/XamarinRocket/)|
 |Indicador de Progresso|[Medium](https://medium.com/@bertuzzi/xamarin-rocket-8-indicador-de-progresso-fe512e8812da)|[Github](https://github.com/TBertuzzi/XamarinRocket/)|
+|Detectando alteração dos itens e Removendo a célula Selecionada|[Medium](https://medium.com/@bertuzzi/xamarin-rocket-9-listview-detectando-altera%C3%A7%C3%A3o-dos-itens-e-removendo-a-celula-selecionada-4d1a25ebf414)|[Github](https://github.com/TBertuzzi/XamarinRocket/)|
 
 
 
