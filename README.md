@@ -107,6 +107,7 @@ Realizei todos os exemplos e implementações.
 |Utilizando GridLayout|[Medium](https://medium.com/@bertuzzi/xamarin-rocket-6-como-utilizar-o-gridlayout-45e0ab4b525b)|[Github](https://github.com/TBertuzzi/XamarinRocket/)|
 |Indicador de Progresso|[Medium](https://medium.com/@bertuzzi/xamarin-rocket-8-indicador-de-progresso-fe512e8812da)|[Github](https://github.com/TBertuzzi/XamarinRocket/)|
 |Detectando alteração dos itens e Removendo a célula Selecionada|[Medium](https://medium.com/@bertuzzi/xamarin-rocket-9-listview-detectando-altera%C3%A7%C3%A3o-dos-itens-e-removendo-a-celula-selecionada-4d1a25ebf414)|[Github](https://github.com/TBertuzzi/XamarinRocket/)|
+|Criando um Relogio e BindingContext|[Medium](https://medium.com/@bertuzzi/xamarin-rocket-10-um-rel%C3%B3gio-xaml-e-bindingcontext-261e135e932d)|[Github](https://github.com/TBertuzzi/XamarinRocket/)|
 
 
 
