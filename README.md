@@ -9,19 +9,19 @@ Realizei todos os exemplos e implementações.
 
 |Pacote | Descrição| Repositório|
 | ------------------- | :------------------: |:------------------: |
-|Xamarin.Forms.MultiSelectListView|Adiciona Multi Select no ListView|[Nuget](https://www.nuget.org/packages/Xamarin.Forms.MultiSelectListView/)||
-|Xamarin.Forms.PageControl|Controle de paginação|[Nuget](https://www.nuget.org/packages/Xamarin.Forms.PageControl/)||
-|Xamarin.Forms.StepProgressBar|Controle de Barra de Progresso (ideal para cadastros)|[Nuget](https://www.nuget.org/packages/Xamarin.Forms.StepProgressBar/)||
-|Xamarin.Forms.BehaviorValidationPack|Pacote com diversas validações para controles de Xamarin.Forms|[Nuget](https://www.nuget.org/packages/Xamarin.Forms.BehaviorValidationPack/)||
-|Xamarin.Forms.MaskedEntry|Entry com Mascara para Xamarin.Forms|[Nuget](https://www.nuget.org/packages/Xamarin.Forms.MaskedEntry/)||
-|Xamarin.Helpers|Helpers e Extensões para Xamarin|[Nuget](https://www.nuget.org/packages/Xamarin.Helpers/)||
-|Xamarin.Forms.PinchZoomImage|Zoom "Pinça" nas suas imagens|[Nuget](https://www.nuget.org/packages/Xamarin.Forms.PinchZoomImage/)||
-|Xamarin.Forms.ConvertersPack|Pacote com diversos converters para Xamarin.Forms|[Nuget](https://www.nuget.org/packages/Xamarin.Forms.ConvertersPack/)||
-|Xamarin.Forms.MVVMBase|Estrutura MVVM Simples para Projetos Xamarin.Forms|[Nuget](https://www.nuget.org/packages/Xamarin.Forms.MVVMBase/)||
-|Xamarin.Forms.DynamicLayout|Layouts dinamicos para Xamarin.Forms|[Nuget](https://www.nuget.org/packages/Xamarin.Forms.DynamicLayout/)||
-|Xamarin.Forms.SegmentedButton|iOS SegmentedButton para Xamarin.Forms|[Nuget](https://www.nuget.org/packages/Xamarin.Forms.SegmentedButton/)||
-|Xamarin.Forms.ImageEntry|Coloque imagens em seus Entrys|[Nuget](https://www.nuget.org/packages/Xamarin.Forms.ImageEntry/)||
-|AppCenter.Helpers (BETA)|Envie Push Notifications,obtenha estatisticas e erros do AppCenter de uma forma simples|[Nuget](https://www.nuget.org/packages/AppCenter.Helpers/0.1.0/)||
+|Xamarin.Forms.MultiSelectListView|Adiciona Multi Select no ListView|[![NuGet](https://buildstats.info/nuget/Xamarin.Forms.MultiSelectListView)](https://www.nuget.org/packages/Xamarin.Forms.MultiSelectListView)||
+|Xamarin.Forms.PageControl|Controle de paginação|[![NuGet](https://buildstats.info/nuget/Xamarin.Forms.PageControl)](https://www.nuget.org/packages/Xamarin.Forms.PageControl)||
+|Xamarin.Forms.StepProgressBar|Controle de Barra de Progresso (ideal para cadastros)|[![NuGet](https://buildstats.info/nuget/Xamarin.Forms.StepProgressBar)](https://www.nuget.org/packages/Xamarin.Forms.StepProgressBar)||
+|Xamarin.Forms.BehaviorValidationPack|Pacote com diversas validações para controles de Xamarin.Forms|[![NuGet](https://buildstats.info/nuget/Xamarin.Forms.BehaviorValidationPack)](https://www.nuget.org/packages/Xamarin.Forms.BehaviorValidationPack)||
+|Xamarin.Forms.MaskedEntry|Entry com Mascara para Xamarin.Forms|[![NuGet](https://buildstats.info/nuget/Xamarin.Forms.MaskedEntry)](https://www.nuget.org/packages/Xamarin.Forms.MaskedEntry)||
+|Xamarin.Helpers|Helpers e Extensões para Xamarin|[![NuGet](https://buildstats.info/nuget/Xamarin.Helpers)](https://www.nuget.org/packages/Xamarin.Helpers)||
+|Xamarin.Forms.PinchZoomImage|Zoom "Pinça" nas suas imagens|[![NuGet](https://buildstats.info/nuget/Xamarin.Forms.PinchZoomImage)](https://www.nuget.org/packages/Xamarin.Forms.PinchZoomImage)||
+|Xamarin.Forms.ConvertersPack|Pacote com diversos converters para Xamarin.Forms|[![NuGet](https://buildstats.info/nuget/Xamarin.Forms.ConvertersPack)](https://www.nuget.org/packages/Xamarin.Forms.ConvertersPack)||
+|Xamarin.Forms.MVVMBase|Estrutura MVVM Simples para Projetos Xamarin.Forms|[![NuGet](https://buildstats.info/nuget/Xamarin.Forms.MVVMBase)](https://www.nuget.org/packages/Xamarin.Forms.MVVMBase)||
+|Xamarin.Forms.DynamicLayout|Layouts dinamicos para Xamarin.Forms|[![NuGet](https://buildstats.info/nuget/Xamarin.Forms.DynamicLayout)](https://www.nuget.org/packages/Xamarin.Forms.DynamicLayout)||
+|Xamarin.Forms.SegmentedButton|iOS SegmentedButton para Xamarin.Forms|[![NuGet](https://buildstats.info/nuget/Xamarin.Forms.SegmentedButton)](https://www.nuget.org/packages/Xamarin.Forms.SegmentedButton)||
+|Xamarin.Forms.ImageEntry|Coloque imagens em seus Entrys|[![NuGet](https://buildstats.info/nuget/Xamarin.Forms.ImageEntry)](https://www.nuget.org/packages/Xamarin.Forms.ImageEntry)||
+|AppCenter.Helpers (BETA)|Envie Push Notifications,obtenha estatisticas e erros do AppCenter de uma forma simples|[![NuGet](https://buildstats.info/nuget/AppCenter.Helpers)](https://www.nuget.org/packages/AppCenter.Helpers)||
 
 
 **Xamarin.Forms**
