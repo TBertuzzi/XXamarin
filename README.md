@@ -85,6 +85,7 @@ Realizei todos os exemplos e implementações.
 |AutoComplete com Entry|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-entry-com-preenchimento-autom%C3%A1tico-77fcbd3727c4)|[Github](https://github.com/TBertuzzi/AutoCompleteExemplo/)|
 |Graficos com Xamarin.Forms|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-gr%C3%A1ficos-6b0f384de5c6)|[Github](https://github.com/TBertuzzi/GraficosExemplo/)|
 |Tela de configuração com Xamarin.Forms|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-criando-uma-tela-de-configura%C3%A7%C3%A3o-com-custom-settingsview-94430ca50248)|[Github](https://github.com/TBertuzzi/SettingsViewExemplo/)|
+|ExpandableView com Xamarin.Forms|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-expandableview-aafea1681cb9)|[Github](https://github.com/TBertuzzi/ExpandableViewExemplo)|
 
 
 
