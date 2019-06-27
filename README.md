@@ -56,6 +56,7 @@ Realizei todos os exemplos e implementações.
 |Exibindo arquivos PDF|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-exibindo-arquivos-pdf-460dcf9b66d9)|[Github](https://github.com/TBertuzzi/LeitorPdfExemplo/)|
 |Gestos na tela|[Medium](https://medium.com/@bertuzzi/xamarin-rocket-7-gestos-e650bbad6b60)|[Github](https://github.com/TBertuzzi/XamarinRocket/)|
 |Splash Screen|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-splash-screen-b4bf27aca0b)|[Github](https://github.com/TBertuzzi/SplashScreenExemplo/)|
+|HyperLink|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-hyperlink-de-forma-simples-f10249fc06ab)|[Github](https://github.com/TBertuzzi/HyperLinkExemplo/)|
 
 
 **Xamarin.Forms - Controles**
@@ -86,6 +87,7 @@ Realizei todos os exemplos e implementações.
 |Graficos com Xamarin.Forms|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-gr%C3%A1ficos-6b0f384de5c6)|[Github](https://github.com/TBertuzzi/GraficosExemplo/)|
 |Tela de configuração com Xamarin.Forms|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-criando-uma-tela-de-configura%C3%A7%C3%A3o-com-custom-settingsview-94430ca50248)|[Github](https://github.com/TBertuzzi/SettingsViewExemplo/)|
 |ExpandableView com Xamarin.Forms|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-expandableview-aafea1681cb9)|[Github](https://github.com/TBertuzzi/ExpandableViewExemplo)|
+|TouchView|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-touchview-6a7641d6ffb)|[Github](https://github.com/TBertuzzi/TouchViewExemplo)|
 
 
 
