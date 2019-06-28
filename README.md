@@ -88,6 +88,7 @@ Realizei todos os exemplos e implementações.
 |Tela de configuração com Xamarin.Forms|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-criando-uma-tela-de-configura%C3%A7%C3%A3o-com-custom-settingsview-94430ca50248)|[Github](https://github.com/TBertuzzi/SettingsViewExemplo/)|
 |ExpandableView com Xamarin.Forms|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-expandableview-aafea1681cb9)|[Github](https://github.com/TBertuzzi/ExpandableViewExemplo)|
 |TouchView|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-touchview-6a7641d6ffb)|[Github](https://github.com/TBertuzzi/TouchViewExemplo)|
+|CarouselView.FormsPlugin Vs CardsView|[Medium](https://medium.com/@bertuzzi/carouselview-formsplugin-vs-cardsview-36839710f589)|[Github](https://github.com/TBertuzzi/CardViewExemplo)|
 
 
 
