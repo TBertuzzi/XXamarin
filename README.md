@@ -113,6 +113,7 @@ Realizei todos os exemplos e implementações.
 |Detectando alteração dos itens e Removendo a célula Selecionada|[Medium](https://medium.com/@bertuzzi/xamarin-rocket-9-listview-detectando-altera%C3%A7%C3%A3o-dos-itens-e-removendo-a-celula-selecionada-4d1a25ebf414)|[Github](https://github.com/TBertuzzi/XamarinRocket/)|
 |Criando um Relogio e BindingContext|[Medium](https://medium.com/@bertuzzi/xamarin-rocket-10-um-rel%C3%B3gio-xaml-e-bindingcontext-261e135e932d)|[Github](https://github.com/TBertuzzi/XamarinRocket/)|
 |XF.Material|[Medium](https://medium.com/p/o-x-do-xamarin-forms-alterando-toda-interface-do-seu-app-xf-material-f1fd8dcb2e18)|[Github](https://github.com/TBertuzzi/XFMaterialSample/tree/master/)|
+|PancakeView|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-cantos-arredondados-bordas-sombras-pancakeview-4625a1bd5ecb)|[Github](https://github.com/TBertuzzi/PancakeViewExemplo/tree/master/)|
 
 
 
