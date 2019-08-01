@@ -177,6 +177,9 @@ Realizei todos os exemplos e implementações.
 |Refit|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-refit-f42bc3707281)|[Github](https://github.com/TBertuzzi/RefitExemplo/)|
 |Xamarin Essentials|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-xamarin-essentials-26511f833ba)||
 |CollectionView e CarouselView|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-4-0-collectionview-e-carouselview-2c277f61d063)|[Github](https://github.com/TBertuzzi/CollectionViewExemplo/)|
+|Tratar Erros de Async de Forma facil|[Medium](https://medium.com/p/o-x-do-xamarin-forms-asyncerrorhandler-8eb9df1e5b24)|[Github](https://github.com/TBertuzzi/AsyncErrorHandlerExemplo/)|
+
+
 
 
 **Xamarin.Forms - MVVM - Frameworks**
