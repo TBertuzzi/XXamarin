@@ -114,6 +114,7 @@ Realizei todos os exemplos e implementações.
 |Criando um Relogio e BindingContext|[Medium](https://medium.com/@bertuzzi/xamarin-rocket-10-um-rel%C3%B3gio-xaml-e-bindingcontext-261e135e932d)|[Github](https://github.com/TBertuzzi/XamarinRocket/)|
 |XF.Material|[Medium](https://medium.com/p/o-x-do-xamarin-forms-alterando-toda-interface-do-seu-app-xf-material-f1fd8dcb2e18)|[Github](https://github.com/TBertuzzi/XFMaterialSample/tree/master/)|
 |PancakeView|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-cantos-arredondados-bordas-sombras-pancakeview-4625a1bd5ecb)|[Github](https://github.com/TBertuzzi/PancakeViewExemplo/tree/master/)|
+|Galeria de Imagens||[Github](https://github.com/TBertuzzi/ImageGalleryXamarinForms/)|
 
 
 
@@ -178,6 +179,7 @@ Realizei todos os exemplos e implementações.
 |Xamarin Essentials|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-xamarin-essentials-26511f833ba)||
 |CollectionView e CarouselView|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-4-0-collectionview-e-carouselview-2c277f61d063)|[Github](https://github.com/TBertuzzi/CollectionViewExemplo/)|
 |Tratar Erros de Async de Forma facil|[Medium](https://medium.com/p/o-x-do-xamarin-forms-asyncerrorhandler-8eb9df1e5b24)|[Github](https://github.com/TBertuzzi/AsyncErrorHandlerExemplo/)|
+|Dicas de Perfomance|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-boas-pr%C3%A1ticas-e-melhorias-de-perfomance-c9ce9959211c)||
 
 
 
