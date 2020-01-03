@@ -1,6 +1,6 @@
 # XXamarin
 
-![](https://github.com/TBertuzzi/XXamarin/blob/master/Resources/logo.jpeg?raw=true)
+![](https://github.com/TBertuzzi/XXamarin/blob/master/Resources/logo2.png?raw=true)
 
 Repositório destinado a agregar diversos Exemplos e Implementações de Xamarin.
 Realizei todos os exemplos e implementações.
