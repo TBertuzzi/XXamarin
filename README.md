@@ -91,6 +91,7 @@ Realizei todos os exemplos e implementações.
 |CarouselView.FormsPlugin Vs CardsView|[Medium](https://medium.com/@bertuzzi/carouselview-formsplugin-vs-cardsview-36839710f589)|[Github](https://github.com/TBertuzzi/CardViewExemplo)|
 |Videconferencia com Opentok|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-videoconfer%C3%AAncia-com-opentok-79f7ade22d43)|[Github](https://github.com/TBertuzzi/OpenTokExemplo)|
 |Breadcrumb com Xamarin.Forms|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-breadcrumb-2e778e152dce)|[Github](https://github.com/TBertuzzi/ExemploBreadcrumb)|
+|CurvedBottomTabbedPageExemplo com Xamarin.Forms|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-curvedbottomtabbedpage-168df2641531)|[Github](https://github.com/TBertuzzi/CurvedBottomTabbedPageExemplo)|
 
 
 
