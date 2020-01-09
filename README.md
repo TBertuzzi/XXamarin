@@ -92,7 +92,8 @@ Realizei todos os exemplos e implementações.
 |Videconferencia com Opentok|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-videoconfer%C3%AAncia-com-opentok-79f7ade22d43)|[Github](https://github.com/TBertuzzi/OpenTokExemplo)|
 |Breadcrumb com Xamarin.Forms|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-breadcrumb-2e778e152dce)|[Github](https://github.com/TBertuzzi/ExemploBreadcrumb)|
 |CurvedBottomTabbedPageExemplo com Xamarin.Forms|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-curvedbottomtabbedpage-168df2641531)|[Github](https://github.com/TBertuzzi/CurvedBottomTabbedPageExemplo)|
-|MarkDown com Xamarin.Forms|[Medium](https://medium.com/me/stats)|[Github](https://github.com/TBertuzzi/ExemploMarkDown)|
+|MarkDown com Xamarin.Forms|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-markdownview-cf4c08e133ea)|[Github](https://github.com/TBertuzzi/ExemploMarkDown)|
+|DragAndDrop com Xamarin.Forms|[Medium](https://medium.com/@bertuzzi/o-incr%C3%ADvel-sharpnado-presentation-forms-parte-1-horizontallistview-e-draganddrop-d9f678c2f703)|[Github](https://github.com/TBertuzzi/SharpnadoExemplo)|
 
 
 
