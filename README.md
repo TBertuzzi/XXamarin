@@ -156,6 +156,7 @@ Realizei todos os exemplos e implementações.
 |Zoom em imagens|[Medium](https://medium.com/@bertuzzi/meu-plugin-minha-vida-zoom-em-imagens-b39b8d0d62d2)|[Github](https://github.com/TBertuzzi/Xamarin.Forms.PinchZoomImage/)|
 |BackGround Services|[Medium](https://medium.com/@bertuzzi/meu-plugin-minha-vida-background-services-16493f32f83e)|[Github](https://github.com/TBertuzzi/ExemploBackGroundService/)|
 |Mapas Externos|[Medium](https://medium.com/@bertuzzi/meu-plugin-minha-vida-abrindo-um-mapa-externo-1686347c626b)|[Github](https://github.com/TBertuzzi/MapaExternoExemplo/)|
+|Adicione Atalhos aos Seus Apps||[Github](https://github.com/TBertuzzi/AtalhosExemplo/)|
 
 
 
