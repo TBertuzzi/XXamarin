@@ -22,6 +22,8 @@ Realizei todos os exemplos e implementações.
 |Xamarin.Forms.SegmentedButton|iOS SegmentedButton para Xamarin.Forms|[![NuGet](https://buildstats.info/nuget/Xamarin.Forms.SegmentedButton)](https://www.nuget.org/packages/Xamarin.Forms.SegmentedButton)||
 |Xamarin.Forms.ImageEntry|Coloque imagens em seus Entrys|[![NuGet](https://buildstats.info/nuget/Xamarin.Forms.ImageEntry)](https://www.nuget.org/packages/Xamarin.Forms.ImageEntry)||
 |AppCenter.Helpers (BETA)|Envie Push Notifications,obtenha estatisticas e erros do AppCenter de uma forma simples|[![NuGet](https://buildstats.info/nuget/AppCenter.Helpers)](https://www.nuget.org/packages/AppCenter.Helpers)||
+|Bertuzzi.Xamarin.Forms.Mocks|Mocks para testar Apps com Xamarin.Forms|[![NuGet](https://buildstats.info/nuget/Bertuzzi.Xamarin.Forms.Mocks)](https://www.nuget.org/packages/Bertuzzi.Xamarin.Forms.Mocks)||
+
 
 
 **Xamarin.Forms**
@@ -94,6 +96,7 @@ Realizei todos os exemplos e implementações.
 |CurvedBottomTabbedPageExemplo com Xamarin.Forms|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-curvedbottomtabbedpage-168df2641531)|[Github](https://github.com/TBertuzzi/CurvedBottomTabbedPageExemplo)|
 |MarkDown com Xamarin.Forms|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-markdownview-cf4c08e133ea)|[Github](https://github.com/TBertuzzi/ExemploMarkDown)|
 |DragAndDrop com Xamarin.Forms|[Medium](https://medium.com/@bertuzzi/o-incr%C3%ADvel-sharpnado-presentation-forms-parte-1-horizontallistview-e-draganddrop-d9f678c2f703)|[Github](https://github.com/TBertuzzi/SharpnadoExemplo)|
+|Carregando controles com Animação|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-carregando-controles-de-uma-forma-mais-bonita-5328458f8870)|[Github](https://github.com/TBertuzzi/ExemploSkeleton)|
 
 
 
