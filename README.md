@@ -190,8 +190,9 @@ Realizei todos os exemplos e implementações.
 |CollectionView e CarouselView|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-4-0-collectionview-e-carouselview-2c277f61d063)|[Github](https://github.com/TBertuzzi/CollectionViewExemplo/)|
 |Tratar Erros de Async de Forma facil|[Medium](https://medium.com/p/o-x-do-xamarin-forms-asyncerrorhandler-8eb9df1e5b24)|[Github](https://github.com/TBertuzzi/AsyncErrorHandlerExemplo/)|
 |Dicas de Perfomance|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-boas-pr%C3%A1ticas-e-melhorias-de-perfomance-c9ce9959211c)||
-|Polly e Resiliencia[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-everybody-say-about-polly-aa5ad25ef829)|[Github](https://github.com/TBertuzzi/ExemploPollyXamarin/)|
-|Shiny Serviços de Background[Medium](https://medium.com/@bertuzzi/o-mestre-do-background-shiny-parte-1-f9d988a20362)|[Github](https://github.com/TBertuzzi/ExemploShiny/)|
+|Polly e Resiliencia |[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-everybody-say-about-polly-aa5ad25ef829)|[Github](https://github.com/TBertuzzi/ExemploPollyXamarin/)|
+|Shiny Serviços de Background |[Medium](https://medium.com/@bertuzzi/o-mestre-do-background-shiny-parte-1-f9d988a20362)|[Github](https://github.com/TBertuzzi/ExemploShiny/)|
+|Copiar e Colar do Clipboard |[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-copiando-textos-do-clipboard-81fc2415c9d4)|[Github](https://github.com/TBertuzzi/ExemploClipboard/)|
 
 
 
