@@ -160,6 +160,8 @@ Realizei todos os exemplos e implementações.
 |BackGround Services|[Medium](https://medium.com/@bertuzzi/meu-plugin-minha-vida-background-services-16493f32f83e)|[Github](https://github.com/TBertuzzi/ExemploBackGroundService/)|
 |Mapas Externos|[Medium](https://medium.com/@bertuzzi/meu-plugin-minha-vida-abrindo-um-mapa-externo-1686347c626b)|[Github](https://github.com/TBertuzzi/MapaExternoExemplo/)|
 |Adicione Atalhos aos Seus Apps||[Github](https://github.com/TBertuzzi/AtalhosExemplo/)|
+|Reproduzindo Audio|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-reproduzindo-audio-b5b4d52716b7)|[Github](https://github.com/TBertuzzi/ExemploReproduzirMusicaXamarin/)|
+|Convertendo Texto em Voz|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-convertendo-texto-em-voz-6c792ef86523)|[Github](https://github.com/TBertuzzi/ExemploTexttoSpeech/)|
 
 
 
