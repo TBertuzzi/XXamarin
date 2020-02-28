@@ -196,6 +196,8 @@ Realizei todos os exemplos e implementações.
 |Polly e Resiliencia |[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-everybody-say-about-polly-aa5ad25ef829)|[Github](https://github.com/TBertuzzi/ExemploPollyXamarin/)|
 |Shiny Serviços de Background |[Medium](https://medium.com/@bertuzzi/o-mestre-do-background-shiny-parte-1-f9d988a20362)|[Github](https://github.com/TBertuzzi/ExemploShiny/)|
 |Copiar e Colar do Clipboard |[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-copiando-textos-do-clipboard-81fc2415c9d4)|[Github](https://github.com/TBertuzzi/ExemploClipboard/)|
+|Automapper com Xamarin.Forms||[Github](https://github.com/TBertuzzi/AutoMapperXamarinFormsExemplo/)|
+
 
 
 
