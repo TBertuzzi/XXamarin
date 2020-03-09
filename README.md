@@ -197,6 +197,7 @@ Realizei todos os exemplos e implementações.
 |Shiny Serviços de Background |[Medium](https://medium.com/@bertuzzi/o-mestre-do-background-shiny-parte-1-f9d988a20362)|[Github](https://github.com/TBertuzzi/ExemploShiny/)|
 |Copiar e Colar do Clipboard |[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-copiando-textos-do-clipboard-81fc2415c9d4)|[Github](https://github.com/TBertuzzi/ExemploClipboard/)|
 |Automapper com Xamarin.Forms||[Github](https://github.com/TBertuzzi/AutoMapperXamarinFormsExemplo/)|
+|Custom Vision + Xamarin.Forms|[Youtube](https://www.youtube.com/watch?v=Co4A1e9WeL4)|[Github](https://github.com/TBertuzzi/PokedexCustomVisionApp/)|
 
 
 
