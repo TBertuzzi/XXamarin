@@ -97,6 +97,7 @@ Realizei todos os exemplos e implementações.
 |MarkDown com Xamarin.Forms|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-markdownview-cf4c08e133ea)|[Github](https://github.com/TBertuzzi/ExemploMarkDown)|
 |DragAndDrop com Xamarin.Forms|[Medium](https://medium.com/@bertuzzi/o-incr%C3%ADvel-sharpnado-presentation-forms-parte-1-horizontallistview-e-draganddrop-d9f678c2f703)|[Github](https://github.com/TBertuzzi/SharpnadoExemplo)|
 |Carregando controles com Animação|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-carregando-controles-de-uma-forma-mais-bonita-5328458f8870)|[Github](https://github.com/TBertuzzi/ExemploSkeleton)|
+|Assinaturas|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-assinaturas-5891d9251a22)|[Github](https://github.com/TBertuzzi/AssinaturaExemplo/tree/master)|
 
 
 
