@@ -98,6 +98,7 @@ Realizei todos os exemplos e implementações.
 |DragAndDrop com Xamarin.Forms|[Medium](https://medium.com/@bertuzzi/o-incr%C3%ADvel-sharpnado-presentation-forms-parte-1-horizontallistview-e-draganddrop-d9f678c2f703)|[Github](https://github.com/TBertuzzi/SharpnadoExemplo)|
 |Carregando controles com Animação|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-carregando-controles-de-uma-forma-mais-bonita-5328458f8870)|[Github](https://github.com/TBertuzzi/ExemploSkeleton)|
 |Assinaturas|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-assinaturas-5891d9251a22)|[Github](https://github.com/TBertuzzi/AssinaturaExemplo/tree/master)|
+|CardsView|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-cardsview-2-scalefactor-opacityfactor-tabscontrol-3fe25e9bc720)|[Github](https://github.com/TBertuzzi/CardViewExemplo)|
 
 
 
