@@ -59,6 +59,8 @@ Realizei todos os exemplos e implementações.
 |Gestos na tela|[Medium](https://medium.com/@bertuzzi/xamarin-rocket-7-gestos-e650bbad6b60)|[Github](https://github.com/TBertuzzi/XamarinRocket/)|
 |Splash Screen|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-splash-screen-b4bf27aca0b)|[Github](https://github.com/TBertuzzi/SplashScreenExemplo/)|
 |HyperLink|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-hyperlink-de-forma-simples-f10249fc06ab)|[Github](https://github.com/TBertuzzi/HyperLinkExemplo/)|
+|Bindable Properties|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-bindable-properties-60f5341d9377)||
+
 
 
 **Xamarin.Forms - Controles**
