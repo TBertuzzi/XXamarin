@@ -20,7 +20,6 @@ Realizei todos os exemplos e implementações.
 |Xamarin.Forms.MVVMBase|Estrutura MVVM Simples para Projetos Xamarin.Forms|[![NuGet](https://buildstats.info/nuget/Xamarin.Forms.MVVMBase)](https://www.nuget.org/packages/Xamarin.Forms.MVVMBase)||
 |Xamarin.Forms.DynamicLayout|Layouts dinamicos para Xamarin.Forms|[![NuGet](https://buildstats.info/nuget/Xamarin.Forms.DynamicLayout)](https://www.nuget.org/packages/Xamarin.Forms.DynamicLayout)||
 |Xamarin.Forms.SegmentedButton|iOS SegmentedButton para Xamarin.Forms|[![NuGet](https://buildstats.info/nuget/Xamarin.Forms.SegmentedButton)](https://www.nuget.org/packages/Xamarin.Forms.SegmentedButton)||
-|Xamarin.Forms.ImageEntry|Coloque imagens em seus Entrys|[![NuGet](https://buildstats.info/nuget/Xamarin.Forms.ImageEntry)](https://www.nuget.org/packages/Xamarin.Forms.ImageEntry)||
 |AppCenter.Helpers (BETA)|Envie Push Notifications,obtenha estatisticas e erros do AppCenter de uma forma simples|[![NuGet](https://buildstats.info/nuget/AppCenter.Helpers)](https://www.nuget.org/packages/AppCenter.Helpers)||
 |Bertuzzi.Xamarin.Forms.Mocks|Mocks para testar Apps com Xamarin.Forms|[![NuGet](https://buildstats.info/nuget/Bertuzzi.Xamarin.Forms.Mocks)](https://www.nuget.org/packages/Bertuzzi.Xamarin.Forms.Mocks)||
 
