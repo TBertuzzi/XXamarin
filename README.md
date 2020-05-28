@@ -102,6 +102,7 @@ Realizei todos os exemplos e implementações.
 |CardsView|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-cardsview-2-scalefactor-opacityfactor-tabscontrol-3fe25e9bc720)|[Github](https://github.com/TBertuzzi/CardViewExemplo)|
 |ColorPicker|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-colorpicker-5191ca6b6c96)|[Github](https://github.com/TBertuzzi/ColorPickerExemplo/)|
 |CalendarView|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-calendar-view-b76a7fcf24e1)|[Github](https://github.com/TBertuzzi/XamarinCalendarExemplo/)|
+|Pin Autentication|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-mobile-pin-301c57b25a4e)|[Github](https://github.com/TBertuzzi/ExemploPinXamarin/)|
 
 
 
