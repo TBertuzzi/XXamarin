@@ -141,6 +141,7 @@ Realizei todos os exemplos e implementações.
 |Armazenando Imagens no LiteDB|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-litedb-armazenando-imagens-fb06f14d114)|[Github](https://github.com/TBertuzzi/LiteDBImagensExemplo/)|
 |Diversas dicas e Implementações sobre persistencia de dados|[Medium](https://medium.com/@bertuzzi/resumo-da-palestra-sobre-persist%C3%AAncia-de-dados-69692d11ac2d)|[Github](https://github.com/TBertuzzi/PalestraPersistenciadeDados/)|
 |Monkey Cache|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-armazenando-cache-com-monkey-cache-p-b881deeba8cd)|[Github](https://github.com/TBertuzzi/ExemploMonkeyCache/)|
+|FireBase|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-utilizando-firebase-databases-60caa044de57)|[Github](https://github.com/TBertuzzi/FireBaseExemploXamarinForms/)|
 
 **Xamarin.Forms - Plugins**
 
