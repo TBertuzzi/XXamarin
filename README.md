@@ -205,6 +205,7 @@ Realizei todos os exemplos e implementações.
 |Copiar e Colar do Clipboard |[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-copiando-textos-do-clipboard-81fc2415c9d4)|[Github](https://github.com/TBertuzzi/ExemploClipboard/)|
 |Automapper com Xamarin.Forms||[Github](https://github.com/TBertuzzi/AutoMapperXamarinFormsExemplo/)|
 |Custom Vision + Xamarin.Forms|[Youtube](https://www.youtube.com/watch?v=Co4A1e9WeL4)|[Github](https://github.com/TBertuzzi/PokedexCustomVisionApp/)|
+|Consumos de Api com Xamarin.Forms |[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-3-formas-de-consumir-apis-rest-252435646c29)|[Github](https://github.com/TBertuzzi/ConsumindoApiRestXamarinForms/)|
 
 
 
