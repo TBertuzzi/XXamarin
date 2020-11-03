@@ -169,6 +169,8 @@ Realizei todos os exemplos e implementações.
 |Adicione Atalhos aos Seus Apps||[Github](https://github.com/TBertuzzi/AtalhosExemplo/)|
 |Reproduzindo Audio|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-reproduzindo-audio-b5b4d52716b7)|[Github](https://github.com/TBertuzzi/ExemploReproduzirMusicaXamarin/)|
 |Convertendo Texto em Voz|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-convertendo-texto-em-voz-6c792ef86523)|[Github](https://github.com/TBertuzzi/ExemploTexttoSpeech/)|
+|Compartilhando dados|[Medium](https://bertuzzi.medium.com/o-x-do-xamarin-forms-compartilhando-dados-1387564eedb8)|[Github](https://github.com/TBertuzzi/XamarinShareExemplo/)|
+
 
 
 
