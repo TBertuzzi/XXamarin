@@ -210,6 +210,8 @@ Realizei todos os exemplos e implementações.
 |Custom Vision + Xamarin.Forms|[Youtube](https://www.youtube.com/watch?v=Co4A1e9WeL4)|[Github](https://github.com/TBertuzzi/PokedexCustomVisionApp/)|
 |Consumos de Api com Xamarin.Forms |[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-3-formas-de-consumir-apis-rest-252435646c29)|[Github](https://github.com/TBertuzzi/ConsumindoApiRestXamarinForms/)|
 |Segurança com Xamarin.Forms |[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-meu-app-esta-seguro-parte-1-14095f6ed22)|[Github](https://github.com/TBertuzzi/XamarinFormsBreachDetector/)|
+|Microsoft Extensions||[Github](https://github.com/TBertuzzi/XamarinFormsMSExtensions/)|
+
 
 
 
