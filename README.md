@@ -180,6 +180,7 @@ Realizei todos os exemplos e implementações.
 | ------------------- | :------------------: |:------------------: |
 |Xamarin.IOS : Tamanhos de Tela,Icones e Botões|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-xamarin-ios-tamanhos-de-tela-icones-e-bot%C3%B5es-a1415e58eaad)||
 |Xamarin.IOS : 5 Dicas para Xamarin.iOS|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-5-dicas-para-xamarin-ios-48e209792104)|[Github](https://github.com/TBertuzzi/DicasXamariniOS/)|
+|Xamarin.IOS : 5 Dicas para Xamarin.iOS|[Medium](https://bertuzzi.medium.com/o-x-do-xamarin-forms-efeitos-de-blur-e-vibrancy-para-ios-4f058196093)|[Github](https://github.com/TBertuzzi/VibrancyFormsExemplo/)|
 
 
 
