@@ -224,4 +224,5 @@ Realizei todos os exemplos e implementações.
 | ------------------- | :------------------: |:------------------: |
 |Configurando o Prism|[Medium](https://medium.com/@bertuzzi/mvvm-em-a%C3%A7%C3%A3o-prism-library-configurando-o-prism-eb7c9b539a88)|[Github](https://github.com/TBertuzzi/PrismHeroes/)|
 |EventAggregator|[Medium](https://medium.com/@bertuzzi/mvvm-em-a%C3%A7%C3%A3o-prism-library-eventaggregator-da918d10c77a)||
+|ReactiveUI|[Medium](https://bertuzzi.medium.com/o-x-do-xamarin-forms-reactive-ui-2eee5efce12)|[Github](https://github.com/TBertuzzi/XamarinFormsReactiveUI/)|
 
