@@ -211,6 +211,8 @@ Realizei todos os exemplos e implementações.
 |Consumos de Api com Xamarin.Forms |[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-3-formas-de-consumir-apis-rest-252435646c29)|[Github](https://github.com/TBertuzzi/ConsumindoApiRestXamarinForms/)|
 |Segurança com Xamarin.Forms |[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-meu-app-esta-seguro-parte-1-14095f6ed22)|[Github](https://github.com/TBertuzzi/XamarinFormsBreachDetector/)|
 |Microsoft Extensions||[Github](https://github.com/TBertuzzi/XamarinFormsMSExtensions/)|
+|Ciclo de Vida e Eventos |[Medium](https://bertuzzi.medium.com/o-x-do-xamarin-forms-ciclo-de-vida-e-eventos-24a798a82a7c)|[Github](https://github.com/TBertuzzi/CicloDeVidaXamarinForms/)|
+
 
 
 
