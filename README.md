@@ -59,6 +59,7 @@ Realizei todos os exemplos e implementações.
 |Splash Screen|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-splash-screen-b4bf27aca0b)|[Github](https://github.com/TBertuzzi/SplashScreenExemplo/)|
 |HyperLink|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-hyperlink-de-forma-simples-f10249fc06ab)|[Github](https://github.com/TBertuzzi/HyperLinkExemplo/)|
 |Bindable Properties|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-bindable-properties-60f5341d9377)||
+|Lottie 2, Resources, EmbeddedResource e SplashScreen|[Medium](https://bertuzzi.medium.com/o-x-do-xamarin-forms-lottie-parte-2-resources-embeddedresource-e-splashscreen-dd9edec78e07)|[Github](https://github.com/TBertuzzi/Lottie2XamarinForms/)|
 
 
 
