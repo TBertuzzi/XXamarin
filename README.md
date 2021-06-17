@@ -5,7 +5,7 @@
 Repositório destinado a agregar diversos Exemplos e Implementações de Xamarin.
 Realizei todos os exemplos e implementações.
 
-**Meus Controles/Plugins**
+🛠**Meus Controles/Plugins**
 
 |Pacote | Descrição| Repositório|
 | ------------------- | :------------------: |:------------------: |
@@ -25,7 +25,7 @@ Realizei todos os exemplos e implementações.
 
 
 
-**Xamarin.Forms**
+📱**Xamarin.Forms**
 
 |Exemplo |Como Utilizar| Código Fonte|
 | ------------------- | :------------------: |:------------------: |
@@ -63,7 +63,7 @@ Realizei todos os exemplos e implementações.
 
 
 
-**Xamarin.Forms - Controles**
+🕹**Xamarin.Forms - Controles**
 
 |Exemplo |Como Utilizar| Código Fonte|
 | ------------------- | :------------------: |:------------------: |
@@ -107,7 +107,7 @@ Realizei todos os exemplos e implementações.
 
 
 
-**Xamarin.Forms - UI**
+📲**Xamarin.Forms - UI**
 
 |Exemplo |Como Utilizar| Código Fonte|
 | ------------------- | :------------------: |:------------------: |
@@ -133,7 +133,7 @@ Realizei todos os exemplos e implementações.
 
 
 
-**Xamarin.Forms - Banco de Dados**
+🗄**Xamarin.Forms - Banco de Dados**
 
 |Exemplo |Como Utilizar| Código Fonte|
 | ------------------- | :------------------: |:------------------: |
@@ -144,7 +144,7 @@ Realizei todos os exemplos e implementações.
 |Monkey Cache|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-armazenando-cache-com-monkey-cache-p-b881deeba8cd)|[Github](https://github.com/TBertuzzi/ExemploMonkeyCache/)|
 |FireBase|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-utilizando-firebase-databases-60caa044de57)|[Github](https://github.com/TBertuzzi/FireBaseExemploXamarinForms/)|
 
-**Xamarin.Forms - Plugins**
+🔨**Xamarin.Forms - Plugins**
 
 |Exemplo |Como Utilizar| Código Fonte|
 | ------------------- | :------------------: |:------------------: |
@@ -171,11 +171,12 @@ Realizei todos os exemplos e implementações.
 |Reproduzindo Audio|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-reproduzindo-audio-b5b4d52716b7)|[Github](https://github.com/TBertuzzi/ExemploReproduzirMusicaXamarin/)|
 |Convertendo Texto em Voz|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-convertendo-texto-em-voz-6c792ef86523)|[Github](https://github.com/TBertuzzi/ExemploTexttoSpeech/)|
 |Compartilhando dados|[Medium](https://bertuzzi.medium.com/o-x-do-xamarin-forms-compartilhando-dados-1387564eedb8)|[Github](https://github.com/TBertuzzi/XamarinShareExemplo/)|
+|Abrindo e Exibindo arquivos PDF|[Medium](https://bertuzzi.medium.com/)|[Github](https://github.com/TBertuzzi/XamarinFormsSaveOpenPDFExemplo/)|
 
 
 
 
-**Xamarin.Forms - Xamarin iOS**
+🍎**Xamarin.Forms - Xamarin iOS**
 
 |Exemplo |Como Utilizar| Código Fonte|
 | ------------------- | :------------------: |:------------------: |
@@ -185,7 +186,7 @@ Realizei todos os exemplos e implementações.
 
 
 
-**Xamarin.Forms - Xamarin Android**
+🤖**Xamarin.Forms - Xamarin Android**
 
 |Exemplo |Como Utilizar| Código Fonte|
 | ------------------- | :------------------: |:------------------: |
@@ -194,7 +195,7 @@ Realizei todos os exemplos e implementações.
 |Serviço Background Android||[Github](https://github.com/TBertuzzi/ExemploWorkerAndroidForms/)|
 |Exibir mensagem ao apertar o botão voltar do Android||[Github](https://github.com/TBertuzzi/AndroidBackButtonExemplo/)|
 
-**Xamarin.Forms - Outros**
+📱**Xamarin.Forms - Outros**
 
 |Exemplo |Como Utilizar| Código Fonte|
 | ------------------- | :------------------: |:------------------: |
@@ -215,13 +216,7 @@ Realizei todos os exemplos e implementações.
 |Ciclo de Vida e Eventos |[Medium](https://bertuzzi.medium.com/o-x-do-xamarin-forms-ciclo-de-vida-e-eventos-24a798a82a7c)|[Github](https://github.com/TBertuzzi/CicloDeVidaXamarinForms/)|
 
 
-
-
-
-
-
-
-**Xamarin.Forms - MVVM - Frameworks**
+⚒**Xamarin.Forms - MVVM - Frameworks**
 
 |Exemplo |Como Utilizar| Código Fonte|
 | ------------------- | :------------------: |:------------------: |
