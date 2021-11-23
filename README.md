@@ -22,6 +22,7 @@ Realizei todos os exemplos e implementações.
 |Xamarin.Forms.SegmentedButton|iOS SegmentedButton para Xamarin.Forms|[![NuGet](https://buildstats.info/nuget/Xamarin.Forms.SegmentedButton)](https://www.nuget.org/packages/Xamarin.Forms.SegmentedButton)||
 |AppCenter.Helpers (BETA)|Envie Push Notifications,obtenha estatisticas e erros do AppCenter de uma forma simples|[![NuGet](https://buildstats.info/nuget/AppCenter.Helpers)](https://www.nuget.org/packages/AppCenter.Helpers)||
 |Bertuzzi.Xamarin.Forms.Mocks|Mocks para testar Apps com Xamarin.Forms|[![NuGet](https://buildstats.info/nuget/Bertuzzi.Xamarin.Forms.Mocks)](https://www.nuget.org/packages/Bertuzzi.Xamarin.Forms.Mocks)||
+|Xamarin.Forms.EventAggregator|Pacote para utilizar EventAggregator com Xamarin.Forms|[![NuGet](https://buildstats.info/nuget/Xamarin.Forms.EventAggregator)](https://www.nuget.org/packages/Xamarin.Forms.EventAggregator)||
 
 
 
