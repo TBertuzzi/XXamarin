@@ -106,7 +106,7 @@ Realizei todos os exemplos e implementações.
 |CalendarView|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-calendar-view-b76a7fcf24e1)|[Github](https://github.com/TBertuzzi/XamarinCalendarExemplo/)|
 |Pin Autentication|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-mobile-pin-301c57b25a4e)|[Github](https://github.com/TBertuzzi/ExemploPinXamarin/)|
 |Overflow|[Medium](https://bertuzzi.medium.com/o-x-do-xamarin-forms-overflow-overflower-654cfe26029)|[Github](https://github.com/TBertuzzi/OverFlowerExemplo/tree/main/)|
-
+|Dialogs,toast e Loading com AiFormsDialogs|[Medium](https://bertuzzi.medium.com/o-x-do-xamarin-forms-custom-dialogs-aiforms-dialogs-ae64e4f80d31)|[Github](https://github.com/TBertuzzi/XamarinFormsAiFormsDialogs/)|
 
 📲**Xamarin.Forms - UI**
 
@@ -172,8 +172,8 @@ Realizei todos os exemplos e implementações.
 |Reproduzindo Audio|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-reproduzindo-audio-b5b4d52716b7)|[Github](https://github.com/TBertuzzi/ExemploReproduzirMusicaXamarin/)|
 |Convertendo Texto em Voz|[Medium](https://medium.com/@bertuzzi/o-x-do-xamarin-forms-convertendo-texto-em-voz-6c792ef86523)|[Github](https://github.com/TBertuzzi/ExemploTexttoSpeech/)|
 |Compartilhando dados|[Medium](https://bertuzzi.medium.com/o-x-do-xamarin-forms-compartilhando-dados-1387564eedb8)|[Github](https://github.com/TBertuzzi/XamarinShareExemplo/)|
-|Abrindo e Exibindo arquivos PDF|[Medium](https://bertuzzi.medium.com/)|[Github](https://github.com/TBertuzzi/XamarinFormsSaveOpenPDFExemplo/)|
-
+|Abrindo e Exibindo arquivos PDF|[Medium](https://bertuzzi.medium.com/meu-plugin-minha-vida-abrindo-e-exibindo-arquivos-pdf-a124e6d9e9f7)|[Github](https://github.com/TBertuzzi/XamarinFormsSaveOpenPDFExemplo/)|
+|Xamarin.Forms.EventAggregator|[Medium](https://bertuzzi.medium.com/meu-plugin-minha-vida-xamarin-forms-eventaggregator-1ae411e0b2da)|[Github](https://github.com/TBertuzzi/Xamarin.Forms.EventAggregator/tree/master/XamarinFormsEventAggregatorSample)|
 
 
 
